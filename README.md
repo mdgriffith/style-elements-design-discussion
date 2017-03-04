@@ -4,29 +4,16 @@ I've been trying out a number of different experimental things to improve the [s
 
 Basically, I'd love your input on a number of features I'm playing with.
 
-The [style-elements](https://github.com/mdgriffith/style-elements) library is meant to be a way to specify styles in Elm that are much more robust and featurful than writing normal CSS.  I'd also love improve the interface to style in general and make it _intuitive_.
+The [style-elements](https://github.com/mdgriffith/style-elements) library is meant to be a way to specify styles in Elm that are more robust and featurful than writing normal CSS.  I'd also love improve the interface to style in general and make it _intuitive_.
+
+Comments welcome, even if it's just a thumbs up or down!  If you have an idea for this library or a common CSS painpoint to address, make an issue :D
 
 Here are the features/characteristics I'm looking at.  Some of them already exist in [style-elements](https://github.com/mdgriffith/style-elements).  
-
-Comments welcome, even if it's just a thumbs up or down!
-
-## Bad property elimination or handling.
-
-  * [Eliminating certain properties](https://github.com/mdgriffith/style-elements-design-discussion/issues/1)
-  * [Handling of error prone props](https://github.com/mdgriffith/style-elements-design-discussion/issues/2)
-  * [Limiting allowed units and why](https://github.com/mdgriffith/style-elements-design-discussion/issues/3)
-
-## Improved Interfaces
-
-  * [Flexbox](https://github.com/mdgriffith/style-elements-design-discussion/issues/4)
-  * Grid layout (haven't explored this yet)
-  * [CSS Animation](https://github.com/mdgriffith/style-elements-design-discussion/issues/5)
-  * [Media Queries](https://github.com/mdgriffith/style-elements-design-discussion/issues/6)
 
 ## Additional Features:
 
   * [Embedding `elm-style-animation`s directly in your stylesheet](https://github.com/mdgriffith/style-elements-design-discussion/issues/7)
-     * I think this is crazy useful for managing animation heavy sites
+    * I think this could be crazy useful for managing animation heavy sites
   * [Style scoping](https://github.com/mdgriffith/style-elements-design-discussion/issues/8)
 
 
@@ -46,3 +33,19 @@ Elm gives us the opportunity to _enforce_ some type of organization.  The main d
 Brian Hicks, lord of the elm-benchmark, organizer of elm-confs, and giver of the highest of fives mentioned checking out [constraint based stylesheets alá cassowary](http://gridstylesheets.org/guides/ccss/).  This is pretty cool and warrants some thought.
 
   * [Style via Constraints](https://github.com/mdgriffith/style-elements-design-discussion/issues/11)
+
+----
+
+# Less Exciting Stuff
+
+## Bad property elimination or handling.
+
+  * [Eliminating certain properties](https://github.com/mdgriffith/style-elements-design-discussion/issues/1)
+  * [Handling of error prone props](https://github.com/mdgriffith/style-elements-design-discussion/issues/2)
+  * [Limiting allowed units and why](https://github.com/mdgriffith/style-elements-design-discussion/issues/3)
+
+## Improved Interfaces
+
+  * [Layout - Flexbox ++ Grid Layout](https://github.com/mdgriffith/style-elements-design-discussion/issues/4)
+  * [CSS Animation](https://github.com/mdgriffith/style-elements-design-discussion/issues/5)
+  * [Media Queries](https://github.com/mdgriffith/style-elements-design-discussion/issues/6)
