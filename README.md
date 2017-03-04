@@ -28,6 +28,8 @@ Brian Hicks, lord of the elm-benchmark, organizer of elm-confs, and giver of the
 
 # Less Exciting Stuff
 
+I haven't written the description for some of these features yet.  The above features are more interesting and impactful.
+
 ## Bad property elimination or handling.
 
   * [Eliminating certain properties](https://github.com/mdgriffith/style-elements-design-discussion/issues/1)
