@@ -8,7 +8,6 @@ Comments welcome, even if it's just a thumbs up or down!
 
   * [Embedding `elm-style-animation`s directly in your stylesheet](https://github.com/mdgriffith/style-elements-design-discussion/issues/7)
     * I think this could be crazy useful for managing animation heavy sites
-  * [Style scoping](https://github.com/mdgriffith/style-elements-design-discussion/issues/8)
 
 
 ## Organization
@@ -40,3 +39,7 @@ Brian Hicks, lord of the elm-benchmark, organizer of elm-confs, and giver of the
   * [Layout - Flexbox ++ Grid Layout](https://github.com/mdgriffith/style-elements-design-discussion/issues/4)
   * [CSS Animation](https://github.com/mdgriffith/style-elements-design-discussion/issues/5)
   * [Media Queries](https://github.com/mdgriffith/style-elements-design-discussion/issues/6)
+
+## Potential Modularity
+  
+  * [Style scoping](https://github.com/mdgriffith/style-elements-design-discussion/issues/8)
