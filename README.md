@@ -24,12 +24,6 @@ Brian Hicks, lord of the elm-benchmark, organizer of elm-confs, and giver of the
   * [Style via Constraints](https://github.com/mdgriffith/style-elements-design-discussion/issues/11)
 
 
-## External Resources
-
-The style elements is different from working in CSS.  One of the primary challenges is in learning a new system, even if that system makes certain things easier.
-
-Therefore the next version of `style-elements` will have a beautiful, visual guide to accompany all the documentation.
-
 
 ----
 
@@ -52,3 +46,13 @@ I haven't written the description for some of these features yet.  The above fea
 ## Potential Modularity
   
   * [Style scoping](https://github.com/mdgriffith/style-elements-design-discussion/issues/8)
+
+
+# External Resources
+
+ * [__Guide__](https://github.com/mdgriffith/style-elements-design-discussion/issues/13) - The next version of `style-elements` will have a beautiful, visual guide to accompany all the documentation.
+ * [__elm-style CLI__](https://github.com/mdgriffith/style-elements-design-discussion/issues/12) - I'd like to include an executable to help with maintenence.
+    * Detect unused styles.  Prompt to delete.
+    * Maintaining the big "type StyleClass = --{all your classes}" is a pain.  It'd be cool to write/maintain it automatically based on your stylesheet.
+    * A 'new' command for starting a new stylesheet
+
