@@ -9,7 +9,6 @@ Comments welcome, even if it's just a thumbs up or down!
   * [Embedding `elm-style-animation`s directly in your stylesheet](https://github.com/mdgriffith/style-elements-design-discussion/issues/7)
     * I think this could be crazy useful for managing animation heavy sites
 
-
 ## Organization
 
 Standardizing some organization of CSS would be awesome.
@@ -23,6 +22,14 @@ Standardizing some organization of CSS would be awesome.
 Brian Hicks, lord of the elm-benchmark, organizer of elm-confs, and giver of the highest of fives mentioned checking out [constraint based stylesheets alá cassowary](http://gridstylesheets.org/guides/ccss/).  This is pretty cool and warrants some thought.
 
   * [Style via Constraints](https://github.com/mdgriffith/style-elements-design-discussion/issues/11)
+
+
+## External Resources
+
+The style elements is different from working in CSS.  One of the primary challenges is in learning a new system, even if that system makes certain things easier.
+
+Therefore the next version of `style-elements` will have a beautiful, visual guide to accompany all the documentation.
+
 
 ----
 
