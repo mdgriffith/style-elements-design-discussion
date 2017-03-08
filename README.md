@@ -2,6 +2,10 @@
 
 I've been trying out a number of different experimental things to improve the [style-elements](https://github.com/mdgriffith/style-elements) library, but then it hit me..._why not get the feedback from the crazy awesome elm people I know_?
 
+
+[style-elements](https://github.com/mdgriffith/style-elements) is an Elm based style library.  The goal is to make CSS and styling in general as robust as Elm itself while adding in some powerful features.  I believe we need this because you can easily write syntactically valid CSS that is still "broken".
+
+
 Comments welcome, even if it's just a thumbs up or down!
 
 ## Additional Features:
