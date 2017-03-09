@@ -8,7 +8,8 @@ I've been trying out a number of different experimental things to improve the [s
 
 Comments welcome, even if it's just a thumbs up or down!
 
-## Additional Features:
+
+## Additional Features
 
   * [Embedding `elm-style-animation`s directly in your stylesheet](https://github.com/mdgriffith/style-elements-design-discussion/issues/7)
     * I think this could be crazy useful for managing animation heavy sites
@@ -27,6 +28,12 @@ Brian Hicks, lord of the elm-benchmark, organizer of elm-confs, and giver of the
 
   * [Style via Constraints](https://github.com/mdgriffith/style-elements-design-discussion/issues/11)
 
+----
+
+
+## Interesting References
+
+  * [An archive of interesting CSS references.](https://github.com/mdgriffith/style-elements-design-discussion/issues/14)
 
 
 ----
