@@ -9,6 +9,10 @@ I've been trying out a number of different experimental things to improve the [s
 Comments welcome, even if it's just a thumbs up or down!
 
 
+## Interesting References
+
+  * [An archive of interesting CSS references.](https://github.com/mdgriffith/style-elements-design-discussion/issues/14)
+
 ## Additional Features
 
   * [Embedding `elm-style-animation`s directly in your stylesheet](https://github.com/mdgriffith/style-elements-design-discussion/issues/7)
@@ -28,19 +32,6 @@ Brian Hicks, lord of the elm-benchmark, organizer of elm-confs, and giver of the
 
   * [Style via Constraints](https://github.com/mdgriffith/style-elements-design-discussion/issues/11)
 
-----
-
-
-## Interesting References
-
-  * [An archive of interesting CSS references.](https://github.com/mdgriffith/style-elements-design-discussion/issues/14)
-
-
-----
-
-# Less Exciting Stuff
-
-I haven't written the description for some of these features yet.  The above features are more interesting and impactful.
 
 ## Bad property elimination or handling.
 
@@ -59,7 +50,7 @@ I haven't written the description for some of these features yet.  The above fea
   * [Style scoping](https://github.com/mdgriffith/style-elements-design-discussion/issues/8)
 
 
-# External Resources
+## External Resources
 
  * [__Guide__](https://github.com/mdgriffith/style-elements-design-discussion/issues/13) - The next version of `style-elements` will have a beautiful, visual guide to accompany all the documentation.
  * [__elm-style CLI__](https://github.com/mdgriffith/style-elements-design-discussion/issues/12) - I'd like to include an executable to help with maintenence.
