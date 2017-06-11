@@ -3,58 +3,18 @@
 I've been trying out a number of different experimental things to improve the [style-elements](https://github.com/mdgriffith/style-elements) library, but then it hit me..._why not get the feedback from the crazy awesome elm people I know_?
 
 
-[style-elements](https://github.com/mdgriffith/style-elements) is an Elm based style library.  The goal is to make CSS and styling in general as robust as Elm itself while adding in some powerful features.  I believe we need this because you can easily write syntactically valid CSS that is still "broken".
+This repo is dedicated to discussing a few things about the [style-elements](https://github.com/mdgriffith/style-elements) library:
 
+    * _What is intuitive behavior?_ - There are many corners of weird behavior in the defaults of CSS.  We want this library to have a well thought out approach to each of them.  This is usually a surprisingly hard question.
+    * _Discussion/exploration of new features_ 
+    * _Discussion of approaches used by other libraries or references_
 
-Comments welcome, even if it's just a thumbs up or down!
+This discussion mainly happens through issues.  Comments welcome, even if it's just a thumbs up or down!
 
+## Why a new repo?
 
-## Interesting References
+Issues on the _main_ style elements repo are used for one thing, _bugs_.  Essentially I want it to be a repository for "I was trying to do this and then something was unexpected".  We can then reference and discuss here if necessary.
 
-  * [An archive of interesting CSS references.](https://github.com/mdgriffith/style-elements-design-discussion/issues/14)
+I think this separation makes sense so there's not a lot of noise between people experimenting/discussing and people needing a solution.  However, it's also an experiment!  It may change later if this turns out to be silly.
 
-## Additional Features
-
-  * [Embedding `elm-style-animation`s directly in your stylesheet](https://github.com/mdgriffith/style-elements-design-discussion/issues/7)
-    * I think this could be crazy useful for managing animation heavy sites
-
-## Organization
-
-Standardizing some organization of CSS would be awesome.
-
-  * [Grouping style properties by category](https://github.com/mdgriffith/style-elements-design-discussion/issues/9)
-  * [`style`, `position`, and `layout` categorized classes](https://github.com/mdgriffith/style-elements-design-discussion/issues/10)
-        * Style classes that can only have one category of props.
-
-## Experimental
-
-Brian Hicks, lord of the elm-benchmark, organizer of elm-confs, and giver of the highest of fives mentioned checking out [constraint based stylesheets alá cassowary](http://gridstylesheets.org/guides/ccss/).  This is pretty cool and warrants some thought.
-
-  * [Style via Constraints](https://github.com/mdgriffith/style-elements-design-discussion/issues/11)
-
-
-## Bad property elimination or handling.
-
-  * [Eliminating certain properties](https://github.com/mdgriffith/style-elements-design-discussion/issues/1)
-  * [Handling of error prone props](https://github.com/mdgriffith/style-elements-design-discussion/issues/2)
-  * [Limiting allowed units and why](https://github.com/mdgriffith/style-elements-design-discussion/issues/3)
-
-## Improved Interfaces
-
-  * [Layout - Flexbox ++ Grid Layout](https://github.com/mdgriffith/style-elements-design-discussion/issues/4)
-  * [CSS Animation](https://github.com/mdgriffith/style-elements-design-discussion/issues/5)
-  * [Media Queries](https://github.com/mdgriffith/style-elements-design-discussion/issues/6)
-
-## Potential Modularity
-  
-  * [Style scoping](https://github.com/mdgriffith/style-elements-design-discussion/issues/8)
-
-
-## External Resources
-
- * [__Guide__](https://github.com/mdgriffith/style-elements-design-discussion/issues/13) - The next version of `style-elements` will have a beautiful, visual guide to accompany all the documentation.
- * [__elm-style CLI__](https://github.com/mdgriffith/style-elements-design-discussion/issues/12) - I'd like to include an executable to help with maintenence.
-    * Detect unused styles.  Prompt to delete.
-    * Maintaining the big "type StyleClass = --{all your classes}" is a pain.  It'd be cool to write/maintain it automatically based on your stylesheet.
-    * A 'new' command for starting a new stylesheet
 
