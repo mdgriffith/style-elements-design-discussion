@@ -5,9 +5,9 @@ I've been trying out a number of different experimental things to improve the [s
 
 This repo is dedicated to discussing a few things about the [style-elements](https://github.com/mdgriffith/style-elements) library:
 
-    * _What is intuitive behavior?_ - There are many corners of weird behavior in the defaults of CSS.  We want this library to have a well thought out approach to each of them.  This is usually a surprisingly hard question.
-    * _Discussion/exploration of new features_ 
-    * _Discussion of approaches used by other libraries or references_
+  * __What is intuitive behavior?__ - There are many corners of weird behavior in the defaults of CSS.  We want this library to have a well thought out approach to each of them.  This is usually a surprisingly hard question.
+  * __Discussion/exploration of new features__ 
+  * __Discussion of approaches used by other libraries or references__
 
 This discussion mainly happens through issues.  Comments welcome, even if it's just a thumbs up or down!
 
